@@ -1,3 +1,3 @@
 # trigonometry
 ## Trigonometry
-![Image of Title](title.jpg)
+![Image of Title](title.JPG)
